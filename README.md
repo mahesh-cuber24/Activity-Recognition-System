@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository implements a novel framework for human activity recognition using wearable sensor data with minimal labeled examples. Our approach combines self-supervised learning (SSL) techniques with Large Language Models (LLMs) to create an efficient activity recognition system that requires significantly less labeled data than traditional approaches.
+This repository implements a ongoing framework for human activity recognition using wearable sensor data with minimal labeled examples. Our approach combines self-supervised learning (SSL) techniques with Large Language Models (LLMs) to create an efficient activity recognition system that requires significantly less labeled data than traditional approaches.
 
 By encoding raw sensor data through SimCLR and Temporal Feature Contrast (TFC) models, we transform complex time-series data into meaningful embeddings that cluster similar activities together. These embeddings serve as input to LLMs, enabling them to function as virtual annotators without requiring extensive labeled examples.
 
